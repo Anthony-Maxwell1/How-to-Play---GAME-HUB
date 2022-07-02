@@ -8,3 +8,4 @@ FLAPPY BIRD - Press space to flap your bird up. Do not hit the pipes or you will
 PACMAN - Use the arrow keys to turn Pacman, dots count to your score. You will lose if you touch a gost. Touch a big dot and you will be able to kill the gosts for a period of time. (Signified by them being dark blue)
 GUESS THE NUMBER - Follow the dialog boxes and try to guess the number between 1-30.
 MARIO FIREBALL DODGE - Use the up and down arrow keys to dodge the fireballs.
+BASIC MINECRAFT 2D - Use WASD to move the selected block (NOTE: This will only move one block. So press rapidly to move multiple.) Left click to destroy, right click to place, = and - to select a different block to place.
